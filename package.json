@@ -1,9 +1,9 @@
 {
     "name": "scala",
-    "displayName": "Scala Syntax (official)",
-    "description": "Official Scala Syntax",
+    "displayName": "Scala Syntax (unofficial)",
+    "description": "Unofficial Scala Syntax. For testing only.",
     "version": "0.4.5",
-    "publisher": "scala-lang",
+    "publisher": "MaximeKjaer",
     "license": "SEE LICENSE IN LICENSE.md",
     "engines": {
         "vscode": "^1.5.0"

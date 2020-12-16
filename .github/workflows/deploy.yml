@@ -6,9 +6,9 @@ on:
       - '*.*.*'
 
 env:
-  OWNER: scala
+  OWNER: MaximeKjaer
   REPOSITORY: vscode-scala-syntax
-  RELEASE_BRANCH: master
+  RELEASE_BRANCH: gh-actions-test
 
 jobs:
   deploy:
