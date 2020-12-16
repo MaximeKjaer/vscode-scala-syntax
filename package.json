@@ -2,7 +2,7 @@
     "name": "scala",
     "displayName": "Scala Syntax (unofficial)",
     "description": "Unofficial Scala Syntax. For testing only.",
-    "version": "0.4.5",
+    "version": "0.5.0",
     "publisher": "MaximeKjaer",
     "license": "SEE LICENSE IN LICENSE.md",
     "engines": {
