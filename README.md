@@ -10,7 +10,7 @@ Visual Studio Code extension providing syntax highlighting for Scala 2 and Scala
 
 This repo also powers the Scala syntax highlighting on GitHub. (It is vendored in [github/linguist](https://github.com/github/linguist).)
 
-test
+test test
 
 ### Team
 
